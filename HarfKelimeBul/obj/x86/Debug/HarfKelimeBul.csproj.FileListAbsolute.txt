@@ -1,0 +1,8 @@
+c:\users\alfa\documents\visual studio 2010\Projects\HarfKelimeBul\HarfKelimeBul\bin\Debug\HarfKelimeBul.exe
+c:\users\alfa\documents\visual studio 2010\Projects\HarfKelimeBul\HarfKelimeBul\bin\Debug\HarfKelimeBul.pdb
+c:\users\alfa\documents\visual studio 2010\Projects\HarfKelimeBul\HarfKelimeBul\obj\x86\Debug\HarfKelimeBul.Form1.resources
+c:\users\alfa\documents\visual studio 2010\Projects\HarfKelimeBul\HarfKelimeBul\obj\x86\Debug\HarfKelimeBul.Properties.Resources.resources
+c:\users\alfa\documents\visual studio 2010\Projects\HarfKelimeBul\HarfKelimeBul\obj\x86\Debug\HarfKelimeBul.csproj.GenerateResource.Cache
+c:\users\alfa\documents\visual studio 2010\Projects\HarfKelimeBul\HarfKelimeBul\obj\x86\Debug\HarfKelimeBul.exe
+c:\users\alfa\documents\visual studio 2010\Projects\HarfKelimeBul\HarfKelimeBul\obj\x86\Debug\HarfKelimeBul.pdb
+C:\Users\Alfa\documents\visual studio 2010\Projects\HarfKelimeBul\HarfKelimeBul\obj\x86\Debug\HarfKelimeBul.csprojResolveAssemblyReference.cache
